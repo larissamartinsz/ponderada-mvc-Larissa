@@ -1,4 +1,15 @@
 # Arquitetura MVC
+
+<br>
+<div align="center">
+<img src="arquitetura-MVC.png" width="100%" >
+</div>
+<br>
+
+Link para o Draw.io desenvolvido: (https://drive.google.com/file/d/1ZZLVDDXnblIWqqmNSgS5Ecw8hBshOFvl/view?usp=sharing) 
+
+
+
 - Nome do Projeto: TechBridge
 - Descrição: O projeto consiste basicamente em propiciar uma ferramenta capaz de facilitar a integração de pessoas de diferentes lugares do mundo. Para isso, a solução possuirá duas frentes: 1.  Entender perfis comportamentais e coletar feedbacks de jogadores; 2. Oferecer essas informações aos tutores, para que esses saibam como ajudar nas problemáticas de cada grupo.
 - Arquitetura: MVC (Model-View-Controller)
